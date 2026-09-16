@@ -16,9 +16,6 @@ keywords = ["fun"]
 [project.urls]
 Repository = "https://github.com/iqnite/testotalha"
 
-[project.scripts]
-spamoji = "testotalha.main:main"
-
 [tool.setuptools]
 packages = ["testotalha"]
 
